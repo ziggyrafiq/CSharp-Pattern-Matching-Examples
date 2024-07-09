@@ -1,0 +1,2 @@
+# CSharp-Pattern-Matching-Examples
+ Using C#'s pattern matching engine, you will learn how to match patterns based on fundamental concepts like constants and types, advanced techniques such as recursive patterns and pattern combinators, and practical applications such as LINQ queries and async methods. With this comprehensive guide, you will improve your coding skills and make your code clearer and more efficient.

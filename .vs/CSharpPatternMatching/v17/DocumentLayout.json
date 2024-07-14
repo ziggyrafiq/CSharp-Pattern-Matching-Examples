@@ -1,0 +1,426 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCF0872-424D-43EA-8B9E-098D582EF360}|PatternMatchingConsoleApp\\PatternMatchingConsoleApp.csproj|e:\\github\\csharp-pattern-matching-examples\\patternmatchingconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCF0872-424D-43EA-8B9E-098D582EF360}|PatternMatchingConsoleApp\\PatternMatchingConsoleApp.csproj|solutionrelative:patternmatchingconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|e:\\github\\csharp-pattern-matching-examples\\patternmatchinglibrary\\personmatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|solutionrelative:patternmatchinglibrary\\personmatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|e:\\github\\csharp-pattern-matching-examples\\patternmatchinglibrary\\tupleprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|solutionrelative:patternmatchinglibrary\\tupleprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|e:\\github\\csharp-pattern-matching-examples\\patternmatchinglibrary\\numbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|solutionrelative:patternmatchinglibrary\\numbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|e:\\github\\csharp-pattern-matching-examples\\patternmatchinglibrary\\data\\fetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|solutionrelative:patternmatchinglibrary\\data\\fetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|e:\\github\\csharp-pattern-matching-examples\\patternmatchinglibrary\\data\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|solutionrelative:patternmatchinglibrary\\data\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|e:\\github\\csharp-pattern-matching-examples\\patternmatchinglibrary\\patternmatchinglibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|solutionrelative:patternmatchinglibrary\\patternmatchinglibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|e:\\github\\csharp-pattern-matching-examples\\patternmatchinglibrary\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|solutionrelative:patternmatchinglibrary\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|e:\\github\\csharp-pattern-matching-examples\\patternmatchinglibrary\\userinputvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|solutionrelative:patternmatchinglibrary\\userinputvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|e:\\github\\csharp-pattern-matching-examples\\patternmatchinglibrary\\shapematcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|solutionrelative:patternmatchinglibrary\\shapematcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|e:\\github\\csharp-pattern-matching-examples\\patternmatchinglibrary\\vehicleprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|solutionrelative:patternmatchinglibrary\\vehicleprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|e:\\github\\csharp-pattern-matching-examples\\patternmatchinglibrary\\numbersummarizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|solutionrelative:patternmatchinglibrary\\numbersummarizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|e:\\github\\csharp-pattern-matching-examples\\patternmatchinglibrary\\dataanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|solutionrelative:patternmatchinglibrary\\dataanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|e:\\github\\csharp-pattern-matching-examples\\patternmatchinglibrary\\components\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|solutionrelative:patternmatchinglibrary\\components\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|e:\\github\\csharp-pattern-matching-examples\\patternmatchinglibrary\\shapeinfoprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|solutionrelative:patternmatchinglibrary\\shapeinfoprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|e:\\github\\csharp-pattern-matching-examples\\patternmatchinglibrary\\components\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|solutionrelative:patternmatchinglibrary\\components\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|e:\\github\\csharp-pattern-matching-examples\\patternmatchinglibrary\\components\\base\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|solutionrelative:patternmatchinglibrary\\components\\base\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|e:\\github\\csharp-pattern-matching-examples\\patternmatchinglibrary\\components\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|solutionrelative:patternmatchinglibrary\\components\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|e:\\github\\csharp-pattern-matching-examples\\patternmatchinglibrary\\components\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|solutionrelative:patternmatchinglibrary\\components\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|e:\\github\\csharp-pattern-matching-examples\\patternmatchinglibrary\\components\\base\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|solutionrelative:patternmatchinglibrary\\components\\base\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|e:\\github\\csharp-pattern-matching-examples\\patternmatchinglibrary\\components\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|solutionrelative:patternmatchinglibrary\\components\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|e:\\github\\csharp-pattern-matching-examples\\patternmatchinglibrary\\components\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|solutionrelative:patternmatchinglibrary\\components\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|e:\\github\\csharp-pattern-matching-examples\\patternmatchinglibrary\\dayofweekchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|solutionrelative:patternmatchinglibrary\\dayofweekchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|e:\\github\\csharp-pattern-matching-examples\\patternmatchinglibrary\\models\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B5A205-E0DF-4A3A-A717-BCAA0C450536}|PatternMatchingLibrary\\PatternMatchingLibrary.csproj|solutionrelative:patternmatchinglibrary\\models\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TupleProcessor.cs",
+              "DocumentMoniker": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\TupleProcessor.cs",
+              "RelativeDocumentMoniker": "PatternMatchingLibrary\\TupleProcessor.cs",
+              "ToolTip": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\TupleProcessor.cs",
+              "RelativeToolTip": "PatternMatchingLibrary\\TupleProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T18:11:23.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fetcher.cs",
+              "DocumentMoniker": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\Data\\Fetcher.cs",
+              "RelativeDocumentMoniker": "PatternMatchingLibrary\\Data\\Fetcher.cs",
+              "ToolTip": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\Data\\Fetcher.cs",
+              "RelativeToolTip": "PatternMatchingLibrary\\Data\\Fetcher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T18:03:01.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\Data\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "PatternMatchingLibrary\\Data\\NotFoundException.cs",
+              "ToolTip": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\Data\\NotFoundException.cs",
+              "RelativeToolTip": "PatternMatchingLibrary\\Data\\NotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T18:02:11.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PatternMatchingLibrary",
+              "DocumentMoniker": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\PatternMatchingLibrary.csproj",
+              "RelativeDocumentMoniker": "PatternMatchingLibrary\\PatternMatchingLibrary.csproj",
+              "ToolTip": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\PatternMatchingLibrary.csproj",
+              "RelativeToolTip": "PatternMatchingLibrary\\PatternMatchingLibrary.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-14T17:47:58.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "PatternMatchingLibrary\\Models\\Person.cs",
+              "ToolTip": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\Models\\Person.cs",
+              "RelativeToolTip": "PatternMatchingLibrary\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T17:51:38.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserInputValidation.cs",
+              "DocumentMoniker": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\UserInputValidation.cs",
+              "RelativeDocumentMoniker": "PatternMatchingLibrary\\UserInputValidation.cs",
+              "ToolTip": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\UserInputValidation.cs",
+              "RelativeToolTip": "PatternMatchingLibrary\\UserInputValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T17:48:04.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NumberSummarizer.cs",
+              "DocumentMoniker": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\NumberSummarizer.cs",
+              "RelativeDocumentMoniker": "PatternMatchingLibrary\\NumberSummarizer.cs",
+              "ToolTip": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\NumberSummarizer.cs",
+              "RelativeToolTip": "PatternMatchingLibrary\\NumberSummarizer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T17:44:59.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataAnalyzer.cs",
+              "DocumentMoniker": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\DataAnalyzer.cs",
+              "RelativeDocumentMoniker": "PatternMatchingLibrary\\DataAnalyzer.cs",
+              "ToolTip": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\DataAnalyzer.cs",
+              "RelativeToolTip": "PatternMatchingLibrary\\DataAnalyzer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T17:39:23.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShapeMatcher.cs",
+              "DocumentMoniker": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\ShapeMatcher.cs",
+              "RelativeDocumentMoniker": "PatternMatchingLibrary\\ShapeMatcher.cs",
+              "ToolTip": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\ShapeMatcher.cs",
+              "RelativeToolTip": "PatternMatchingLibrary\\ShapeMatcher.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwDoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T17:30:35.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonMatcher.cs",
+              "DocumentMoniker": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\PersonMatcher.cs",
+              "RelativeDocumentMoniker": "PatternMatchingLibrary\\PersonMatcher.cs",
+              "ToolTip": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\PersonMatcher.cs",
+              "RelativeToolTip": "PatternMatchingLibrary\\PersonMatcher.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T17:21:01.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\Components\\Circle.cs",
+              "RelativeDocumentMoniker": "PatternMatchingLibrary\\Components\\Circle.cs",
+              "ToolTip": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\Components\\Circle.cs",
+              "RelativeToolTip": "PatternMatchingLibrary\\Components\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T16:58:49.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VehicleProcessor.cs",
+              "DocumentMoniker": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\VehicleProcessor.cs",
+              "RelativeDocumentMoniker": "PatternMatchingLibrary\\VehicleProcessor.cs",
+              "ToolTip": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\VehicleProcessor.cs",
+              "RelativeToolTip": "PatternMatchingLibrary\\VehicleProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T16:39:51.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Car.cs",
+              "DocumentMoniker": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\Components\\Car.cs",
+              "RelativeDocumentMoniker": "PatternMatchingLibrary\\Components\\Car.cs",
+              "ToolTip": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\Components\\Car.cs",
+              "RelativeToolTip": "PatternMatchingLibrary\\Components\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T16:33:30.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShapeInfoPrinter.cs",
+              "DocumentMoniker": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\ShapeInfoPrinter.cs",
+              "RelativeDocumentMoniker": "PatternMatchingLibrary\\ShapeInfoPrinter.cs",
+              "ToolTip": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\ShapeInfoPrinter.cs",
+              "RelativeToolTip": "PatternMatchingLibrary\\ShapeInfoPrinter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:02:35.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "PatternMatchingConsoleApp\\Program.cs",
+              "ToolTip": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingConsoleApp\\Program.cs",
+              "RelativeToolTip": "PatternMatchingConsoleApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T11:38:27.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\Components\\Base\\Vehicle.cs",
+              "RelativeDocumentMoniker": "PatternMatchingLibrary\\Components\\Base\\Vehicle.cs",
+              "ToolTip": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\Components\\Base\\Vehicle.cs",
+              "RelativeToolTip": "PatternMatchingLibrary\\Components\\Base\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T16:42:20.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Numbers.cs",
+              "DocumentMoniker": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\Numbers.cs",
+              "RelativeDocumentMoniker": "PatternMatchingLibrary\\Numbers.cs",
+              "ToolTip": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\Numbers.cs",
+              "RelativeToolTip": "PatternMatchingLibrary\\Numbers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T13:45:10.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\Components\\Truck.cs",
+              "RelativeDocumentMoniker": "PatternMatchingLibrary\\Components\\Truck.cs",
+              "ToolTip": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\Components\\Truck.cs",
+              "RelativeToolTip": "PatternMatchingLibrary\\Components\\Truck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T16:27:18.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Bicycle.cs",
+              "DocumentMoniker": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\Components\\Bicycle.cs",
+              "RelativeDocumentMoniker": "PatternMatchingLibrary\\Components\\Bicycle.cs",
+              "ToolTip": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\Components\\Bicycle.cs",
+              "RelativeToolTip": "PatternMatchingLibrary\\Components\\Bicycle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T16:27:33.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DayOfWeekChecker.cs",
+              "DocumentMoniker": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\DayOfWeekChecker.cs",
+              "RelativeDocumentMoniker": "PatternMatchingLibrary\\DayOfWeekChecker.cs",
+              "ToolTip": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\DayOfWeekChecker.cs",
+              "RelativeToolTip": "PatternMatchingLibrary\\DayOfWeekChecker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T13:48:26.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\Components\\Triangle.cs",
+              "RelativeDocumentMoniker": "PatternMatchingLibrary\\Components\\Triangle.cs",
+              "ToolTip": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\Components\\Triangle.cs",
+              "RelativeToolTip": "PatternMatchingLibrary\\Components\\Triangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T17:04:56.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\Components\\Base\\IShape.cs",
+              "RelativeDocumentMoniker": "PatternMatchingLibrary\\Components\\Base\\IShape.cs",
+              "ToolTip": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\Components\\Base\\IShape.cs",
+              "RelativeToolTip": "PatternMatchingLibrary\\Components\\Base\\IShape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T17:07:59.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Point.cs",
+              "DocumentMoniker": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\Models\\Point.cs",
+              "RelativeDocumentMoniker": "PatternMatchingLibrary\\Models\\Point.cs",
+              "ToolTip": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\Models\\Point.cs",
+              "RelativeToolTip": "PatternMatchingLibrary\\Models\\Point.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T11:47:03.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\Components\\Rectangle.cs",
+              "RelativeDocumentMoniker": "PatternMatchingLibrary\\Components\\Rectangle.cs",
+              "ToolTip": "E:\\GitHub\\CSharp-Pattern-Matching-Examples\\PatternMatchingLibrary\\Components\\Rectangle.cs",
+              "RelativeToolTip": "PatternMatchingLibrary\\Components\\Rectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T17:15:12.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

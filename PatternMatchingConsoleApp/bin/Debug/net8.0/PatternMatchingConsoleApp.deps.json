@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PatternMatchingConsoleApp/1.0.0": {
+        "dependencies": {
+          "PatternMatchingLibrary": "1.0.0"
+        },
+        "runtime": {
+          "PatternMatchingConsoleApp.dll": {}
+        }
+      },
+      "PatternMatchingLibrary/1.0.0": {
+        "runtime": {
+          "PatternMatchingLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PatternMatchingConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PatternMatchingLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

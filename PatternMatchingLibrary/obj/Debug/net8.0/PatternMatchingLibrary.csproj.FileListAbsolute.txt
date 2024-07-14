@@ -1,0 +1,22 @@
+E:\GitHub\CSharp-Pattern-Matching-Examples\Chapter 01\PatternMatchingLibrary\bin\Debug\net8.0\PatternMatchingLibrary.deps.json
+E:\GitHub\CSharp-Pattern-Matching-Examples\Chapter 01\PatternMatchingLibrary\bin\Debug\net8.0\PatternMatchingLibrary.dll
+E:\GitHub\CSharp-Pattern-Matching-Examples\Chapter 01\PatternMatchingLibrary\bin\Debug\net8.0\PatternMatchingLibrary.pdb
+E:\GitHub\CSharp-Pattern-Matching-Examples\Chapter 01\PatternMatchingLibrary\obj\Debug\net8.0\PatternMatchingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\CSharp-Pattern-Matching-Examples\Chapter 01\PatternMatchingLibrary\obj\Debug\net8.0\PatternMatchingLibrary.AssemblyInfoInputs.cache
+E:\GitHub\CSharp-Pattern-Matching-Examples\Chapter 01\PatternMatchingLibrary\obj\Debug\net8.0\PatternMatchingLibrary.AssemblyInfo.cs
+E:\GitHub\CSharp-Pattern-Matching-Examples\Chapter 01\PatternMatchingLibrary\obj\Debug\net8.0\PatternMatchingLibrary.csproj.CoreCompileInputs.cache
+E:\GitHub\CSharp-Pattern-Matching-Examples\Chapter 01\PatternMatchingLibrary\obj\Debug\net8.0\PatternMatchingLibrary.dll
+E:\GitHub\CSharp-Pattern-Matching-Examples\Chapter 01\PatternMatchingLibrary\obj\Debug\net8.0\refint\PatternMatchingLibrary.dll
+E:\GitHub\CSharp-Pattern-Matching-Examples\Chapter 01\PatternMatchingLibrary\obj\Debug\net8.0\PatternMatchingLibrary.pdb
+E:\GitHub\CSharp-Pattern-Matching-Examples\Chapter 01\PatternMatchingLibrary\obj\Debug\net8.0\ref\PatternMatchingLibrary.dll
+E:\GitHub\CSharp-Pattern-Matching-Examples\PatternMatchingLibrary\bin\Debug\net8.0\PatternMatchingLibrary.deps.json
+E:\GitHub\CSharp-Pattern-Matching-Examples\PatternMatchingLibrary\bin\Debug\net8.0\PatternMatchingLibrary.dll
+E:\GitHub\CSharp-Pattern-Matching-Examples\PatternMatchingLibrary\bin\Debug\net8.0\PatternMatchingLibrary.pdb
+E:\GitHub\CSharp-Pattern-Matching-Examples\PatternMatchingLibrary\obj\Debug\net8.0\PatternMatchingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\CSharp-Pattern-Matching-Examples\PatternMatchingLibrary\obj\Debug\net8.0\PatternMatchingLibrary.AssemblyInfoInputs.cache
+E:\GitHub\CSharp-Pattern-Matching-Examples\PatternMatchingLibrary\obj\Debug\net8.0\PatternMatchingLibrary.AssemblyInfo.cs
+E:\GitHub\CSharp-Pattern-Matching-Examples\PatternMatchingLibrary\obj\Debug\net8.0\PatternMatchingLibrary.csproj.CoreCompileInputs.cache
+E:\GitHub\CSharp-Pattern-Matching-Examples\PatternMatchingLibrary\obj\Debug\net8.0\PatternMatchingLibrary.dll
+E:\GitHub\CSharp-Pattern-Matching-Examples\PatternMatchingLibrary\obj\Debug\net8.0\refint\PatternMatchingLibrary.dll
+E:\GitHub\CSharp-Pattern-Matching-Examples\PatternMatchingLibrary\obj\Debug\net8.0\PatternMatchingLibrary.pdb
+E:\GitHub\CSharp-Pattern-Matching-Examples\PatternMatchingLibrary\obj\Debug\net8.0\ref\PatternMatchingLibrary.dll

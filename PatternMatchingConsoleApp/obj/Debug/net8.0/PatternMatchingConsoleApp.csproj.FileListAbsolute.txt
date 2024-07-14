@@ -1,0 +1,32 @@
+E:\GitHub\CSharp-Pattern-Matching-Examples\Chapter 01\PatternMatchingConsoleApp\bin\Debug\net8.0\PatternMatchingConsoleApp.exe
+E:\GitHub\CSharp-Pattern-Matching-Examples\Chapter 01\PatternMatchingConsoleApp\bin\Debug\net8.0\PatternMatchingConsoleApp.deps.json
+E:\GitHub\CSharp-Pattern-Matching-Examples\Chapter 01\PatternMatchingConsoleApp\bin\Debug\net8.0\PatternMatchingConsoleApp.runtimeconfig.json
+E:\GitHub\CSharp-Pattern-Matching-Examples\Chapter 01\PatternMatchingConsoleApp\bin\Debug\net8.0\PatternMatchingConsoleApp.dll
+E:\GitHub\CSharp-Pattern-Matching-Examples\Chapter 01\PatternMatchingConsoleApp\bin\Debug\net8.0\PatternMatchingConsoleApp.pdb
+E:\GitHub\CSharp-Pattern-Matching-Examples\Chapter 01\PatternMatchingConsoleApp\obj\Debug\net8.0\PatternMatchingConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\CSharp-Pattern-Matching-Examples\Chapter 01\PatternMatchingConsoleApp\obj\Debug\net8.0\PatternMatchingConsoleApp.AssemblyInfoInputs.cache
+E:\GitHub\CSharp-Pattern-Matching-Examples\Chapter 01\PatternMatchingConsoleApp\obj\Debug\net8.0\PatternMatchingConsoleApp.AssemblyInfo.cs
+E:\GitHub\CSharp-Pattern-Matching-Examples\Chapter 01\PatternMatchingConsoleApp\obj\Debug\net8.0\PatternMatchingConsoleApp.csproj.CoreCompileInputs.cache
+E:\GitHub\CSharp-Pattern-Matching-Examples\Chapter 01\PatternMatchingConsoleApp\obj\Debug\net8.0\PatternMatchingConsoleApp.dll
+E:\GitHub\CSharp-Pattern-Matching-Examples\Chapter 01\PatternMatchingConsoleApp\obj\Debug\net8.0\refint\PatternMatchingConsoleApp.dll
+E:\GitHub\CSharp-Pattern-Matching-Examples\Chapter 01\PatternMatchingConsoleApp\obj\Debug\net8.0\PatternMatchingConsoleApp.pdb
+E:\GitHub\CSharp-Pattern-Matching-Examples\Chapter 01\PatternMatchingConsoleApp\obj\Debug\net8.0\PatternMatchingConsoleApp.genruntimeconfig.cache
+E:\GitHub\CSharp-Pattern-Matching-Examples\Chapter 01\PatternMatchingConsoleApp\obj\Debug\net8.0\ref\PatternMatchingConsoleApp.dll
+E:\GitHub\CSharp-Pattern-Matching-Examples\PatternMatchingConsoleApp\obj\Debug\net8.0\PatternMatchingConsoleApp.csproj.AssemblyReference.cache
+E:\GitHub\CSharp-Pattern-Matching-Examples\PatternMatchingConsoleApp\obj\Debug\net8.0\PatternMatchingConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\CSharp-Pattern-Matching-Examples\PatternMatchingConsoleApp\obj\Debug\net8.0\PatternMatchingConsoleApp.AssemblyInfoInputs.cache
+E:\GitHub\CSharp-Pattern-Matching-Examples\PatternMatchingConsoleApp\obj\Debug\net8.0\PatternMatchingConsoleApp.AssemblyInfo.cs
+E:\GitHub\CSharp-Pattern-Matching-Examples\PatternMatchingConsoleApp\obj\Debug\net8.0\PatternMatchingConsoleApp.csproj.CoreCompileInputs.cache
+E:\GitHub\CSharp-Pattern-Matching-Examples\PatternMatchingConsoleApp\obj\Debug\net8.0\PatternMatchingConsoleApp.dll
+E:\GitHub\CSharp-Pattern-Matching-Examples\PatternMatchingConsoleApp\obj\Debug\net8.0\refint\PatternMatchingConsoleApp.dll
+E:\GitHub\CSharp-Pattern-Matching-Examples\PatternMatchingConsoleApp\obj\Debug\net8.0\PatternMatchingConsoleApp.pdb
+E:\GitHub\CSharp-Pattern-Matching-Examples\PatternMatchingConsoleApp\bin\Debug\net8.0\PatternMatchingConsoleApp.exe
+E:\GitHub\CSharp-Pattern-Matching-Examples\PatternMatchingConsoleApp\bin\Debug\net8.0\PatternMatchingConsoleApp.deps.json
+E:\GitHub\CSharp-Pattern-Matching-Examples\PatternMatchingConsoleApp\bin\Debug\net8.0\PatternMatchingConsoleApp.runtimeconfig.json
+E:\GitHub\CSharp-Pattern-Matching-Examples\PatternMatchingConsoleApp\bin\Debug\net8.0\PatternMatchingConsoleApp.dll
+E:\GitHub\CSharp-Pattern-Matching-Examples\PatternMatchingConsoleApp\bin\Debug\net8.0\PatternMatchingConsoleApp.pdb
+E:\GitHub\CSharp-Pattern-Matching-Examples\PatternMatchingConsoleApp\bin\Debug\net8.0\PatternMatchingLibrary.dll
+E:\GitHub\CSharp-Pattern-Matching-Examples\PatternMatchingConsoleApp\bin\Debug\net8.0\PatternMatchingLibrary.pdb
+E:\GitHub\CSharp-Pattern-Matching-Examples\PatternMatchingConsoleApp\obj\Debug\net8.0\PatternM.C85E51D9.Up2Date
+E:\GitHub\CSharp-Pattern-Matching-Examples\PatternMatchingConsoleApp\obj\Debug\net8.0\PatternMatchingConsoleApp.genruntimeconfig.cache
+E:\GitHub\CSharp-Pattern-Matching-Examples\PatternMatchingConsoleApp\obj\Debug\net8.0\ref\PatternMatchingConsoleApp.dll
